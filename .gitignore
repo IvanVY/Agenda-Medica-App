@@ -1,0 +1,11 @@
+# Ignorar archivos de compilación
+bin/
+obj/
+*.xml  # Si son archivos generados (como los de FirebaseAdmin.xml)
+*.pdb
+*.dll
+*.exe
+C:\Users\NewPc\source\repos\AgendaMedicaApp\AgendaMedicaApp/bin/
+obj/
+packages/
+AgendaMedicaApp/firebase-adminsdk.json
